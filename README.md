@@ -1,4 +1,5 @@
 Entity-Relationship (ER) Diagram Design
+
 This task involves designing an Entity-Relationship (ER) diagram to model the structure and rules of a company's employee–project–department system. The diagram visually represents the entities, attributes, relationships, and constraints involved in the system.
 
 Key design elements include:
